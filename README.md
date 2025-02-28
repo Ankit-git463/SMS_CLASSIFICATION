@@ -4,14 +4,14 @@ A machine learning project to classify SMS messages as spam or legitimate (ham).
 
 ## Table of Contents
 
-* [Overview]
-* [Methodology]
-  * [1. Data Cleaning]
-  * [2. Exploratory Data Analysis]
-  * [3. Text Preprocessing]
-  * [4. Model Building]
-  * [5. Evaluation]
-* [Results]
+* Overview
+* Methodology
+  * 1. Data Cleaning
+  * 2. Exploratory Data Analysis
+  * 3. Text Preprocessing
+  * 4. Model Building
+  * 5. Evaluation
+* Results
 
 ## Overview
 

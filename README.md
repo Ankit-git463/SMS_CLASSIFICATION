@@ -4,14 +4,14 @@ A machine learning project to classify SMS messages as spam or legitimate (ham).
 
 ## Table of Contents
 
-* [Overview](https://claude.ai/chat/4e473a60-96cc-444b-92a5-0b9e77d656ee#overview)
-* [Methodology](https://claude.ai/chat/4e473a60-96cc-444b-92a5-0b9e77d656ee#methodology)
-  * [1. Data Cleaning](https://claude.ai/chat/4e473a60-96cc-444b-92a5-0b9e77d656ee#1-data-cleaning)
-  * [2. Exploratory Data Analysis](https://claude.ai/chat/4e473a60-96cc-444b-92a5-0b9e77d656ee#2-exploratory-data-analysis)
-  * [3. Text Preprocessing](https://claude.ai/chat/4e473a60-96cc-444b-92a5-0b9e77d656ee#3-text-preprocessing)
-  * [4. Model Building](https://claude.ai/chat/4e473a60-96cc-444b-92a5-0b9e77d656ee#4-model-building)
-  * [5. Evaluation](https://claude.ai/chat/4e473a60-96cc-444b-92a5-0b9e77d656ee#5-evaluation)
-* [Results](https://claude.ai/chat/4e473a60-96cc-444b-92a5-0b9e77d656ee#results)
+* [Overview]
+* [Methodology]
+  * [1. Data Cleaning]
+  * [2. Exploratory Data Analysis]
+  * [3. Text Preprocessing]
+  * [4. Model Building]
+  * [5. Evaluation]
+* [Results]
 
 ## Overview
 

@@ -23,7 +23,7 @@ This project aims to build a machine learning model that can accurately classify
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/sms-classification.git
+git clone https://github.com/Ankit-git463/SMS_CLASSIFICATION
 cd sms-classification
 ```
 

@@ -17,6 +17,13 @@ A machine learning project to classify SMS messages as spam or legitimate (ham).
 
 This project aims to build a machine learning model that can accurately classify SMS messages as spam or ham (legitimate). 
 
+## Screenshots 
+
+![A](/screenshots/A.png)
+
+![B](/screenshots/B.png)
+
+
 
 ## Installation
 
